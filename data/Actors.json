@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"jianyu","characterIndex":0,"characterName":"con","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"con","traits":[],"initialLevel":1,"maxLevel":99,"name":"你","nickname":"你","note":"","profile":""},
+{"id":2,"battlerName":"jianyu","characterIndex":0,"characterName":"jianyu","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"jianyu","traits":[],"initialLevel":1,"maxLevel":99,"name":"簡于","nickname":"簡于","note":"","profile":""}
+]
